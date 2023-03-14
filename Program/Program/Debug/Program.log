@@ -1,0 +1,9 @@
+﻿  Program.cpp
+C:\Users\Raunak Singh\source\repos\Program\Program\Program.cpp(15,40): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Raunak Singh\source\repos\Program\Program\Program.cpp(16,44): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Raunak Singh\source\repos\Program\Program\Program.cpp(28,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Raunak Singh\source\repos\Program\Program\Program.cpp(29,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Raunak Singh\source\repos\Program\Program\Program.cpp(31,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Raunak Singh\source\repos\Program\Program\Program.cpp(41,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Raunak Singh\source\repos\Program\Program\Program.cpp(42,18): warning C4305: '+=': truncation from 'double' to 'float'
+  Program.vcxproj -> C:\Users\Raunak Singh\source\repos\Program\Debug\Program.exe
